@@ -5,4 +5,8 @@ package org.umg.curso;
  */
 public class Main {
 
+    public static void main(String[] args) {
+        String mauricio;
+    }
+
 }
